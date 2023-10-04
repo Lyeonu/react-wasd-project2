@@ -1,4 +1,8 @@
-# react-wasd-project2
-react로 만든 명지전문대 소콘과 오큘러스 / 태블릿 / 강의실 대여 시스템 사이트
+# React + Vite
 
-깃허브 데스크탑 설치 및 적용 영상 - https://www.youtube.com/watch?v=0YsMEPxi_wc&t=2s
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

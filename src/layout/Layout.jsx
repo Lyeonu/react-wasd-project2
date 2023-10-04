@@ -1,0 +1,22 @@
+import { Outlet } from 'react-router-dom';
+import Header from './Header';
+import Footer from './Footer';
+
+const Layout = () => {
+
+    // Header - 최상단 네비게이션 바 컴포넌트
+    // Outlet - 페이지 경로에 들어오는 컴포넌트 ex) / 경로이면 HomePage가 들어오고, /rent 경로이면 <RentPage /> 컴포넌트가 들어옴.
+    // Footer - 페이지 하단 정보글 (일단 보류)
+
+    return (
+        <div className='flex flex-col min-h-[100dvh]'>
+            <Header />                                  
+            <div className='flex-1 bg-yellow-400'>
+                <Outlet />
+            </div>
+            <Footer />
+        </div>
+    );
+};
+
+export default Layout;
