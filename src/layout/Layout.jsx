@@ -2,6 +2,7 @@ import { Outlet } from 'react-router-dom';
 import Header from './Header';
 import Footer from './Footer';
 
+// 웹페이지의 기본 구성이되는 최상단 부모 컴포넌트 
 const Layout = () => {
 
     // Header - 최상단 네비게이션 바 컴포넌트
