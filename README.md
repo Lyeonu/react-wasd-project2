@@ -14,8 +14,13 @@ Github Desktop 설치 영상 - https://www.youtube.com/watch?v=0YsMEPxi_wc&t=3s
 
 
 
+
 <각자 작업 폴더 위치>
  src -> components -> 각자 페이지가 폴더이름으로 있음 -> 이 폴더 내부에 한해서 각자 자유롭게 작업 (햇갈림 방지)
+
+
+
+
 
 *** 만약 페이지 컴포넌트(HomePage.jsx 등)은 파일 이름 변경, 위치 이동을 했으면 저한테 바로 알려주세요!! (안그럼 오류남)***
 
