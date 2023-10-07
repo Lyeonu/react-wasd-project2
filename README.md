@@ -16,6 +16,7 @@ Github Desktop 설치 영상 - https://www.youtube.com/watch?v=0YsMEPxi_wc&t=3s
 
 
 <각자 작업 폴더 위치>
+
  src -> components -> 각자 페이지가 폴더이름으로 있음 -> 이 폴더 내부에 한해서 각자 자유롭게 작업 (햇갈림 방지)
 
 
